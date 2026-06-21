@@ -5,9 +5,7 @@
 The system is autonomous — it runs on its own. The user doesn't compose or perform; they *conduct*. Through knobs and buttons, they shape the conditions: density, tone, tension, space, freeze, wobble. Both the soundscape and the visual particle world respond simultaneously.
 
 Built with Arduino UNO + p5.js over serial communication.
-
-[![STEER_OS34 demo](docs/screenshot.png)](https://drive.google.com/file/d/1h7cOOPznH8ixIp0QnORUjrOHcrR5sRpR/view)
-![STEER_OS34 panel](docs/panel.png)
+[![STEER_OS34 demo](https://img.youtube.com/vi/yrtswDm56xM/maxresdefault.jpg)](https://youtu.be/yrtswDm56xM)
 
 ---
 

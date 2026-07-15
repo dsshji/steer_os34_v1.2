@@ -6,7 +6,7 @@ The system is autonomous — it runs on its own. The user doesn't compose or per
 
 Built with Arduino UNO + p5.js over serial communication.
 [![STEER_OS34 demo](https://img.youtube.com/vi/yrtswDm56xM/maxresdefault.jpg)](https://youtu.be/yrtswDm56xM)
-
+![Panel photo](docs/panel.jpg)
 ---
 
 ## Controls
